@@ -20,3 +20,11 @@ This project will cover the full Data Science lifecycle:
 - Trained ML model for churn prediction
 - Interactive Streamlit app for churn prediction
 - Documentation of process and results
+
+## 📂 Dataset
+We are using the **Telco Customer Churn dataset** from Kaggle.  
+Source: [Kaggle Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+- Filename: `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
+- Records: 7,043 customers
+- Target variable: `Churn` (Yes/No)
